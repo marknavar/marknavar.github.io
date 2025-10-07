@@ -208,3 +208,11 @@ textarea {
 optgroup {
 	font-weight: bold;
 }
+
+
+/** End Normalize **/
+
+
+h1 {
+	text-align: center;
+}
